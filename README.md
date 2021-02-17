@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Javascript, HTML, CSS and C++
+- 🔭 I’m currently working on SpaceFN
+- - 📫 Rech me in Discord Zanelul#9720
 <!--
 **Zanelul/Zanelul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
