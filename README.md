@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there im Zanelul
 
-- 🌱 I’m currently learning Javascript, HTML, CSS and C++
-- 🔭 I’m currently working on [SpaceFN](https://discord.gg/rPuCXaTz8x)
-- 📫 Reach me in discord Zanelul#9720
+- 🌱 I’m currently learning Javascript and C++
+- 🔭 I’m currently working on Pandora
+- 📫 Reach me in discord Zanelul#7481
+- 😄 Pronouns: He/Him
 <!--
 **Zanelul/Zanelul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
