@@ -1,7 +1,7 @@
 ### Hi there im Zanelul
 
 - 🌱 I’m currently learning Javascript and C++
-- 🔭 I’m currently working on Pandora
+- 🔭 I’m currently working on nothing :sad:
 - 📫 Reach me in discord Zanelul#7481
 - 😄 Pronouns: He/Him
 <!--
