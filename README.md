@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript and C++
 - 🔭 I’m currently working on nothing :sad:
-- 📫 Reach me in discord Zanelul#7481
+- 📫 Reach me in discord Zanelul#7511
 - 😄 Pronouns: He/Him
 <!--
 **Zanelul/Zanelul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
