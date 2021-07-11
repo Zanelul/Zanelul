@@ -1,6 +1,6 @@
 ### Hi there im Zanelul
 
-- 🌱 I’m currently learning Javascript and C++
+- 🌱 I’m currently learning JavaScript & ASM
 - 🔭 I’m currently working on nothing :sad:
 - 📫 Reach me in discord Zanelul#7511
 - 😄 Pronouns: He/Him
