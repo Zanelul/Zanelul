@@ -1,7 +1,7 @@
 ### Hi there im Zanelul
 
 - 🌱 I’m currently learning JavaScript & ASM
-- 🔭 I’m currently working on nothing :sad:
+- 🔭 I’m currently working on Lumina
 - 📫 Reach me in discord Zanelul#7511
 - 😄 Pronouns: He/Him
 <!--
